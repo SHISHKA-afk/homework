@@ -55,7 +55,7 @@ class Duckbill(PoisonousAnimal, AquaticAnimal, Bird):
     sound = "Click-click-click"
 
 
-# Test the implementation
+
 db = Duckbill(10)
 
 print(db.live)
